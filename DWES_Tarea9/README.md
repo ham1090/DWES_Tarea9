@@ -9,4 +9,4 @@ Este proyecto muestra información obtenida de una API REST pública.
 
 ## API utilizada
 
-- [Public APIs](https://api.publicapis.org/)
+- [Public APIs](https://restcountries.com/v3.1/all)
